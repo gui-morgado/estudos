@@ -1,0 +1,6 @@
+acessar remotamente um repositorio - git clone (url repo)
+
+cria branch git checkout -b develop
+
+subir branch/alteração  git push origin nome da branch (tem q estar na pasta da branch) 
+
